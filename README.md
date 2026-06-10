@@ -1,1 +1,1 @@
-# Retro-snake-game
+Snake Game  I built this classic Snake game using Python and Pygame, and later converted it to run on the web using pygbag and WebAssembly (WASM). The game brings the nostalgic arcade experience directly to the browser with smooth gameplay and responsive controls.  Players control the snake, collect food to grow longer
